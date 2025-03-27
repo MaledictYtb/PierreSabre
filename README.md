@@ -1,2 +1,2 @@
 # PierreSabre
-Dépôt pour le projet Java de TP La pierre et le sabre en ILU1m
+Dépôt pour le projet Java de TP La pierre et le sabre en ILU1

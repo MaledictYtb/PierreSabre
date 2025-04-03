@@ -30,7 +30,7 @@ public class Yakuza extends Humain {
 		int argent = getArgent();
 		perdreArgent(argent);
 
-		rep -= 1;
+		rep--;
 
 		parler("J'ai perdu mon duel et mes " + argent + " sous, snif... J'ai déshonoré le clan de " + clan);
 
@@ -38,7 +38,7 @@ public class Yakuza extends Humain {
 	}
 	
 	public void gagner(int gain) {
-		rep += 1;
+		rep++;
 		
 		gagnerArgent(gain);
 		
